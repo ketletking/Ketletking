@@ -73,4 +73,40 @@ I believe in *clean, functional, and emotional design* — every pixel should ha
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ketletking&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketletking&layout=compact&theme=tokyonight" />
-</p>
+</p> 
+---
+
+## 👋 Hi there, I'm Ketlet Jn Louis
+🎨 *Creative Web & Brand Designer* | Founder of NextSite Studio  
+📍 Based in Spring Valley, New York  
+
+I build modern, elegant websites and digital visuals that connect ideas with measurable results.  
+I’m passionate about transforming concepts into powerful designs that boost brands and drive engagement.
+
+---
+
+## 💡 What I Do
+🌐 Website Design & Redesign  
+🎯 Brand Identity & Marketing Visuals  
+📱 Social Media Templates  
+🛍 E-commerce Optimization  
+
+---
+
+## 🧰 Tools & Skills
+Canva • WordPress • Shopify • Hostinger • Figma • CapCut • Adobe Photoshop
+
+---
+
+## 🌎 Let’s Connect
+💼 [NextSite Studio](https://gonextsite.com)  
+📧 [ketletj@gmail.com](mailto:ketletj@gmail.com)  
+💬 [Upwork Profile](https://www.upwork.com/freelancers/~012716a6b5611ad597)  
+
+---
+
+## ✨ Quote I Live By
+> “Creativity is seeing what everyone else has seen,  
+> but thinking what no one else has thought.”
+
+⭐ Transforming brands, one design at a time.
