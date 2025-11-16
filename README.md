@@ -47,7 +47,6 @@ I believe in *clean, functional, and emotional design* — every pixel should ha
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketletking&layout=compact&theme=tokyonight)
 
-<h1 align="center">Hi, I'm Ketlet 👋</h1>
 <h3 align="center">Creative Web & Brand Designer | Founder of NextSite Studio</h3>
 
 <p align="center">
